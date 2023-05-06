@@ -16,6 +16,7 @@
 **then you can open the website and login with the admin email and password that are already stored in the e-commerce database to access the dashboard or regiser a new user that will not access dashboard**
 
 **admin email : kemoayman2015@gmail.com**
+
 **admin password : kareemAdmin1234**
 
 **i didn't use social auth like facebook .. because it requires https request only and not http**
