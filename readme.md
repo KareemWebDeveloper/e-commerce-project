@@ -4,7 +4,7 @@
 
 **Open Laravel folder -> Final project -> and then in the terminal enter : "composer update"**
 
-### Please use the e-commerce.sql database file and import it in your phpMyAdmin ... because I made it to make the website looks to be professional and perfectly fit in the website and not only a dumb data
+### Please use the e-commerce.sql database file and import it in your phpMyAdmin ... because I made it to make the website looks to be professional and perfectly fit in the website not only a dumb data
 
 
 **then in the terminal enter : php artisan serve** 
