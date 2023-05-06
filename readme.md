@@ -18,6 +18,8 @@
 **admin email : kemoayman2015@gmail.com**
 **admin password : kareemAdmin1234**
 
+**i didn't use social auth like facebook .. because it requires https request only and not http**
+
 **note : the admin can access the dashboard from a button in the navbar**
 
 **i hope you like it**
